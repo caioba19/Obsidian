@@ -1,6 +1,6 @@
 # 00 - Inbox
 
-## Definição  oi 
+## Definição 
 O ponto de entrada universal para a captura de ideias, links e notas rápidas (Fleeting Notes).
 
 ## Propósito
