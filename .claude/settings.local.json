@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Users/caiov/Documents/**)",
+      "Bash(printf '\\\\n---\\\\n')",
+      "Read(//mnt/c/Users/caiov/Documents/Obsidian/**)",
+      "WebSearch",
+      "Bash(npm view:*)",
+      "Bash(git check-ignore:*)"
+    ]
+  }
+}
