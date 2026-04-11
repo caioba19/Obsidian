@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Inbox/README.md",
+                "file": "04 - Referências/Setup - Node NVM e CLIs globais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Setup - Node NVM e CLIs globais"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Inbox/README.md",
+                "file": "04 - Referências/Setup - Node NVM e CLIs globais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para Setup - Node NVM e CLIs globais"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Inbox/README.md",
+                "file": "04 - Referências/Setup - Node NVM e CLIs globais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Links de saída para Setup - Node NVM e CLIs globais"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Inbox/README.md",
+                "file": "04 - Referências/Setup - Node NVM e CLIs globais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de Setup - Node NVM e CLIs globais"
             }
           }
         ]
@@ -186,16 +186,16 @@
   },
   "active": "99acf0ec7a9b768d",
   "lastOpenFiles": [
-    "04 - Referências/Setup - Subir plugin do Obsidian Git para o GitHub.md",
-    "04 - Referências/Setup - Node NVM e CLIs globais.md",
     "04 - Referências/Setup - Git GitHub e clonagem.md",
+    "04 - Referências/Setup - Node NVM e CLIs globais.md",
     "04 - Referências/Setup - Claude Anthropic e OpenClaude.md",
     "04 - Referências/Setup - Apps essenciais para desenvolvimento.md",
+    "04 - Referências/Setup - Subir plugin do Obsidian Git para o GitHub.md",
+    "04 - Referências/README.md",
     "00 - Inbox/README.md",
     "01 - Projetos/README.md",
     "02 - Áreas/README.md",
     "03 - Zettelkasten/README.md",
-    "04 - Referências/README.md",
     "05 - Arquivos/README.md",
     "06 - Templates/README.md",
     "06 - Templates",
