@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Referências/Setup - Node NVM e CLIs globais.md",
+                "file": "04 - Referências/Setup - Subir plugin do Obsidian Git para o GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup - Node NVM e CLIs globais"
+              "title": "Setup - Subir plugin do Obsidian Git para o GitHub"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "99acf0ec7a9b768d",
   "lastOpenFiles": [
-    "04 - Referências/Setup - Git GitHub e clonagem.md",
     "04 - Referências/Setup - Node NVM e CLIs globais.md",
+    "04 - Referências/Setup - Git GitHub e clonagem.md",
     "04 - Referências/Setup - Claude Anthropic e OpenClaude.md",
     "04 - Referências/Setup - Apps essenciais para desenvolvimento.md",
     "04 - Referências/Setup - Subir plugin do Obsidian Git para o GitHub.md",
